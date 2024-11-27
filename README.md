@@ -1,2 +1,2 @@
 # DSA--41
-Sprit - 1
+Sprit1 - 1
